@@ -1,4 +1,4 @@
-## CS211 Lab1 EX1
+## Lab1 EX1
 Question: As a part-time job this semester, you are working for the Family Budget Assistance center. Your boss asks you to write a program that will analyze data for a family. Input for each family consists of:
 
 The family last name (string)
