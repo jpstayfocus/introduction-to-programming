@@ -1,4 +1,4 @@
-Lab 6
+##Lab 5
 An magic square of order n is an n x n matrix that is filled with the distinct integers 1, 2, 3, …, n2, such that the elements in each row, each column, and each diagonal sum up to the same constant (called the magic constant M = [n(n2 + 1)] / 2). The following is a magic square of order 4. It contains the numbers 1..16, such that all directions have equal sums (in this case 34).
 
 |     |     |     |     |
